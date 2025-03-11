@@ -9,16 +9,6 @@ The project is organized into three main stages:
 2. Data Processing - Data cleaning and preparation.
 3. Data Analysis - Visualization and statistical analysis.
 
-## Folder Structure
-
-Question1/
-├── data/
-│   ├── raw/                  # Raw data and metadata
-│   ├── processed/            # Cleaned data
-├── src/                      # All scripts for data preparation, cleaning, and analysis
-├── analysis/                 # Final plots and summary report
-└── README.md                 # Project-level documentation (this file)
-
 ## How to Run the Full Workflow
 
 ### Prerequisites
