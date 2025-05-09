@@ -6,7 +6,7 @@ This project processes and analyzes a dataset of used car listings. The dataset 
 
 ## Folder Structure
 
-- data/ → Contains the original CSV (`train.csv`)
+- data/ → Contains the original CSV (train.csv)
 - notebooks/ → Contains the notebook where all tasks are solved step-by-step
 - output/ → Final results like grouped summary CSV
 - requirements.txt → Python libraries used
